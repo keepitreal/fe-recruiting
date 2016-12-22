@@ -17,7 +17,9 @@ type. An NFL lineup for this contest has the following positions:
 ### Feature 1
 
 To build a lineup, the user should be able to select a player from a list of available athletes. Selecting
-a player adds that player to the user's lineup and removes it from the list of available athletes.
+a player adds that player to the user's lineup and removes it from the list of available athletes. Removing a player
+from a lineup adds the player back to the list of available athletes. Finally, users should be able
+to clear all athletes from their lineup with a single button press.
 
 ### Feature 2
 
@@ -37,7 +39,7 @@ over the salary cap, and they'll need to replace one or more athletes with cheap
 1. First, fork this repository. This repository has a JSON file that has all of the data you'll need to create
 your feature.
 2. We want to see a minimal specification added to `SPEC.md`. 
-3. Please use Vue as your view library. We use Vue at StarsDraft and would like
+3. Please use [Vue.js](https://vuejs.org/) as your view library. We use Vue.js at StarsDraft and would like
 to see how you approach this problem using it.
 4. All other library, build tools, compile-to-js language choices are up to you.
 5. Please overwrite this `README.md` with instructions on how to run your app.
