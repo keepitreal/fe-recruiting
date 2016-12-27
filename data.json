@@ -1,0 +1,85 @@
+{
+    "salarycap": 50000,
+    "lineupRequirements": {
+        "QB": 1,
+        "RB": 1,
+        "WR": 1,
+        "TE": 1,
+        "FX": 1
+    },
+    "flexOptions": ["RB", "WR", "TE"],
+    "athletes": [
+        {
+            "position": "quarterback",
+            "positionAbbr": "QB",
+            "name": "Aaron Rodgers",
+            "salary": 12000
+        },
+        {
+            "position": "quarterback",
+            "positionAbbr": "QB",
+            "name": "Tom Brady",
+            "salary": 14000
+        },
+        {
+            "position": "quarterback",
+            "positionAbbr": "QB",
+            "name": "Cam Newton",
+            "salary": 8000
+        },
+        {
+            "position": "runningback",
+            "positionAbbr": "RB",
+            "name": "Ezekiel Elliott",
+            "salary": 12000
+        },
+        {
+            "position": "runningback",
+            "positionAbbr": "RB",
+            "name": "LeGarrette Blount",
+            "salary": 7500
+        },
+        {
+            "position": "runningback",
+            "positionAbbr": "RB",
+            "name": "Latavius Murray",
+            "salary": 9500
+        },
+        {
+            "position": "wide receiver",
+            "positionAbbr": "WR",
+            "name": "Antonio Brown",
+            "salary": 13500
+        },
+        {
+            "position": "wide receiver",
+            "positionAbbr": "WR",
+            "name": "Dez Bryant",
+            "salary": 10000
+        },
+        {
+            "position": "wide receiver",
+            "positionAbbr": "WR",
+            "name": "Emmanuel Sanders",
+            "salary": 8500
+        },
+        {
+            "position": "tight end",
+            "positionAbbr": "TE",
+            "name": "Greg Olsen",
+            "salary": 11500
+        },
+        {
+            "position": "tight end",
+            "positionAbbr": "TE",
+            "name": "Jimmy Graham",
+            "salary": 9000
+        },
+        {
+            "position": "tight end",
+            "positionAbbr": "TE",
+            "name": "Hunter Henry",
+            "salary": 8000
+        }
+    ]
+}
